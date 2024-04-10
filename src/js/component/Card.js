@@ -10,7 +10,7 @@ const Card = () => {
                     <p class="card-text text-center my-3">Equipo de origen alemán con sedes en Brackley y Brixworth, en Gran Bretaña.</p>
                 </div>
                 <div class="d-flex card-footer justify-content-center">
-                    <a href="#" class="btn btn-primary">Find Out More!</a>
+                    <a href="#" class="btn btn-outline-info">Find Out More!</a>
                 </div>
             </div>
         </div>

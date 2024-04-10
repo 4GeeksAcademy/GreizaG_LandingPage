@@ -9,7 +9,7 @@ const Jumbotron = () => {
                     <p class="fs-5 mt-3">Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                         Ipsa, ipsam, eligendi, in quo sunt possimus non incidunt odit vero aliquid
                         similique quaerat nam nobis illo aspernatur vitae fugiat numquam repellat.</p>
-                    <button class="btn btn-primary btn-lg" type="button">Call to action!</button>
+                    <button class="btn btn-outline-info btn-lg" type="button">Call to action!</button>
                 </div>
             </div>
         </div>
