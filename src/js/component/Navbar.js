@@ -4,7 +4,7 @@ const Navbar = () => {
     return (
         <nav class="navbar navbar-expand-lg bg-dark">
             <div class="container-fluid">
-                <a class="navbar-brand text-light ms-3" href="#">Start Bootstrap</a>
+                <a class="navbar-brand text-light ms-5" href="#">Start Bootstrap</a>
                 <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -20,7 +20,7 @@ const Navbar = () => {
                             <a class="nav-link disabled text-light" aria-disabled="true">Service</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link disabled text-light me-3" aria-disabled="true">Contact</a>
+                            <a class="nav-link disabled text-light me-5" aria-disabled="true">Contact</a>
                         </li>
                     </ul>
                 </div>
