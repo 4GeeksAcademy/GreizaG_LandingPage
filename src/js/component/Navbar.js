@@ -3,7 +3,7 @@ import React from "react";
 const Navbar = () => {
     return (
         <nav class="navbar navbar-expand-lg bg-dark">
-            <div class="container">
+            <div class="container-fluid px-5">
                 <a class="navbar-brand text-light" href="#">Start Bootstrap</a>
                 <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>

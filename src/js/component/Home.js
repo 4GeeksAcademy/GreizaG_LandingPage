@@ -10,7 +10,7 @@ const Home = () => {
 		<div>
 			<Navbar />
 			<Jumbotron />
-			<div class="container">
+			<div class="container-fluid px-5">
 				<div className="row">
 					<Card />
 					<Card />
